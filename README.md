@@ -11,7 +11,7 @@ I created a simple web app which shows the parallax effect as you seen in many f
 
 ## Screenshots
 
-![App Screenshot](https://cdn.jsdelivr.net/gh/zahid-404/parallax-effect@master/demo.gif)
+![App Screenshot](https://github.com/zahid-404/parallax-effect/blob/master/demo.gif)
 
 
 ## Tech Stack Used
